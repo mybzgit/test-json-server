@@ -1,46 +1,46 @@
 {
     "users": [
         {
-            "userid": "1",
+            "userid": 1,
             "name": "User1",
             "password": "123456"
         },
         {
-            "userid": "2",
+            "userid": 2,
             "name": "User2",
             "password": "234567"
         }
     ],
     "contacts": [
         {
-            "contactid":"1",
+            "contactid": 1,
             "name": "Contact 1",
             "phone": "123-456-789",
-            "userid": "1"
+            "userid": 1
         },
         {
-            "contactid":"2",
+            "contactid": 2,
             "name": "Contact 2",
             "phone": "234-567-890",
-            "userid": "1"
+            "userid": 1
         },
         {
-            "contactid":"3",
+            "contactid": 3,
             "name": "Contact 3",
             "phone": "345-678-901",
-            "userid": "2"
+            "userid": 2
         },
         {
-            "contactid":"4",
+            "contactid": 4,
             "name": "Contact 4",
             "phone": "987-654-321",
-            "userid": "2"
+            "userid": 2
         },
         {
-            "contactid":"5",
+            "contactid": 5,
             "name": "Contact 5",
             "phone": "876-543-210",
-            "userid": "2"
+            "userid": 2
         }
     ]
 }
